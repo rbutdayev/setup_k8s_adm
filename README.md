@@ -1,0 +1,5 @@
+# PREREQUESTS
+
+ - GIT
+ - CURL
+ 
